@@ -9,7 +9,7 @@ This repository contains a comprehensive portfolio showcasing my expertise in we
 
 📧 **Email:** markmungaikuria@gmail.com
 
-🌐📽️ **YouTube** [Mark Mungai Kuria](https://www.youtube.com/@mungaidiaries)
+🌐📽️ **YouTube Tutorials** [Mark Mungai Kuria](https://www.youtube.com/@mungaidiaries)
 
 📂 **GitHub:** [Mark Francis MKuria - Freelancer](https://github.com/MFMKURIA)
 
