@@ -15,7 +15,7 @@ This repository contains a comprehensive portfolio showcasing my expertise in we
 
 🔗 **LinkedIn:** [Mark Francis Mungai Kuria](https://www.linkedin.com/in/mark-mungaikuria-francis-522612163/)  
 
-🌍 🇰🇪 :kenya: 🇺🇸 :us: 🇬🇧 :uk: 🇨🇦 :canada: 🇪🇺 :eu: 🇦🇺 :australia:
+🌍 **Active Locations** 🇰🇪 🇺🇸 🇬🇧 🇨🇦 🇪🇺 🇦🇺
 
 ---
 
