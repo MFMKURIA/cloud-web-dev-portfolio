@@ -4,11 +4,15 @@ This repository contains a comprehensive portfolio showcasing my expertise in we
 # Mark Francis Kuria Mungai
 
 📞 **Contact:** 🇰🇪 +254 705 228995 🇺🇸 +1 628 262 8288 🇬🇧 +44 7723 429527
+
 💬✅ **WhatsApp** 🇰🇪 +254 705 228995 🇬🇧 +44 7723 429527
+
 📧 **Email:** markmungaikuria@gmail.com
 
 🌐📽️ **YouTube** [Mark Mungai Kuria](https://www.youtube.com/@mungaidiaries)
+
 📂 **GitHub:** [<?php echo "Mark Francis MKuria - Freelancer"; ?>](https://github.com/MFMKURIA)
+
 🔗 **LinkedIn:** [Mark Francis Mungai Kuria](https://www.linkedin.com/in/mark-mungaikuria-francis-522612163/)  
 
 🌍 🇰🇪 :kenya: 🇺🇸 :us: 🇬🇧 :uk: 🇨🇦 :canada: 🇪🇺 :eu: 🇦🇺 :australia:
