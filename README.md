@@ -11,7 +11,7 @@ This repository contains a comprehensive portfolio showcasing my expertise in we
 
 🌐📽️ **YouTube** [Mark Mungai Kuria](https://www.youtube.com/@mungaidiaries)
 
-📂 **GitHub:** [<?php echo "Mark Francis MKuria - Freelancer"; ?>](https://github.com/MFMKURIA)
+📂 **GitHub:** [Mark Francis MKuria - Freelancer](https://github.com/MFMKURIA)
 
 🔗 **LinkedIn:** [Mark Francis Mungai Kuria](https://www.linkedin.com/in/mark-mungaikuria-francis-522612163/)  
 
